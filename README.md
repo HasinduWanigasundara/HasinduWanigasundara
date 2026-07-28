@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Hasindu 👋
 
-<!--
-**HasinduWanigasundara/HasinduWanigasundara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa, specializing in embedded systems, hardware design, and network engineering. 
 
-Here are some ideas to get you started:
+#### 🛠️ Skills & Technologies
+* **Firmware & Embedded:** C++, STM32, ESP32, Arduino
+* **Hardware & FPGA:** PCB Layout, Verilog, FPGA Implementation, 3D Printing 
+* **Networking & Comms:** GNU Radio, Wireshark, GNS3
+* **Documentation & Analysis:** LaTeX, Algorithm Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm currently working on
+* Deepening my knowledge of signal processing and stochastic processes.
+* Exploring advanced network traffic simulation.
+
+#### 📫 How to reach me
+* LinkedIn: [Link to your LinkedIn]
