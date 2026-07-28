@@ -39,7 +39,7 @@ I am an undergraduate student studying **Electronic and Telecommunication Engine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasinduWanigasundara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasinduwanigasundara&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
 </p>
 
 ## 📫 Let's Connect
