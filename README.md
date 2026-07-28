@@ -11,8 +11,6 @@
 
 I am an undergraduate student studying **Electronic and Telecommunication Engineering** at the **University of Moratuwa**. My passion lies at the intersection of hardware and software, with a deep interest in **Audio Engineering, PCB Design, and Machine Learning**. 
 
-I enjoy tackling complex hardware challenges from the ground up—whether that means designing precise load regulation circuits for analog audio gear, writing firmware for embedded automation, or optimizing network topologies. I am constantly building, testing, and learning new ways to bring electronic systems to life.
-
 ## 🛠️ Tools & Technologies
 
 <p align="center">
