@@ -31,8 +31,8 @@ I am an undergraduate student studying **Electronic and Telecommunication Engine
 ## 🚀 Featured Projects
 
 * **[Nexora Dengue Patient Monitor](https://github.com/HasinduWanigasundara/Nexora-Dengue-Monitoring)**: *3rd Runner Up (SPARK Challenge 2026)* — Raspberry Pi-based continuous monitoring unit and dashboard for tracking critical patient vitals.
-* **[Automated IoT Smart Water Meter](https://github.com/HasinduWanigasundaraAI_Enabled_Automated_Medicine_Packaging_System)**: Custom PCB layout, STM32 firmware, and SIM800L integration designed to address Sri Lanka's Non-Revenue Water challenges.
-* **[MediPack Pro](https://github.com/HasinduWanigasundara/MediPack-Pro-Smart-Dispenser)**: *Semi-Finalist (SLIoT 2026)* — Automated pill-counting and dispensing prototype utilizing Arduino and AI-based prescription OCR.
+* **[Automated IoT Smart Water Meter](https://github.com/HasinduWanigasundara/AI_Enabled_Automated_Medicine_Packaging_System)**: Custom PCB layout, STM32 firmware, and SIM800L integration designed to address Sri Lanka's Non-Revenue Water challenges.
+* **[MediPack Pro](https://github.com/HasinduWanigasundara/AI_Enabled_Automated_Medicine_Packaging_System)**: *Semi-Finalist (SLIoT 2026)* — Automated pill-counting and dispensing prototype utilizing Arduino and AI-based prescription OCR.
 * **[Real Steel Autonomous Robot](https://github.com/HasinduWanigasundara/Real-Steel-SLRC2026)**: *Finalist (SLRC 2026)* — Distributed compute robot (Raspberry Pi + Arduino) featuring computer vision, AprilTag decoding, and PID motor control.
 
 ## 📫 Let's Connect
