@@ -30,15 +30,14 @@ I am an undergraduate student studying **Electronic and Telecommunication Engine
 
 ## 🚀 Featured Projects
 
-*(Upload your repositories and link them below!)*
-
-* **[Medipack Pro](#)**: Automated pill-counting and dispensing prototype with AI-based prescription reading.
-* **[Active Noise-Canceling Pre-Amp](#)**: Hardware design and active filtering methodology for microphone audio processing.
-* **[Smart Water Meter Prototype](#)**: Custom PCB layout and microcontroller firmware for automated water flow data collection.
+* **[Automated IoT Smart Water Meter](https://github.com/hasindu-wanigasundara/Automated-IoT-Smart-Water-Meter)**: Custom PCB layout, STM32 firmware, and SIM800L integration designed to address Sri Lanka's Non-Revenue Water challenges.
+* **[MediPack Pro](https://github.com/hasindu-wanigasundara/MediPack-Pro-Smart-Dispenser)**: *Semi-Finalist (SLIoT 2026)* — Automated pill-counting and dispensing prototype utilizing Arduino and AI-based prescription OCR.
+* **[Nexora Dengue Patient Monitor](https://github.com/hasindu-wanigasundara/Nexora-Dengue-Monitoring)**: *3rd Runner Up (SPARK Challenge 2026)* — Raspberry Pi-based continuous monitoring unit and dashboard for tracking critical patient vitals.
+* **[Real Steel Autonomous Robot](https://github.com/hasindu-wanigasundara/Real-Steel-SLRC2026)**: *Finalist (SLRC 2026)* — Distributed compute robot (Raspberry Pi + Arduino) featuring computer vision, AprilTag decoding, and PID motor control.
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hasinduwanigasundara4@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL-HERE"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
